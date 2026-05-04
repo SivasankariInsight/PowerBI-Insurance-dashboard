@@ -134,8 +134,3 @@ Travel and Health insurance contribute the highest revenue, while inactive custo
 This dashboard enables real-time monitoring of business performance, helping stakeholders make informed decisions on revenue, claims, customer behavior, and product strategy.
 
 ---
-
-## 👤 Author
-
-**Siva S**
-SQL | Python | Power BI | Excel
